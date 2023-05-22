@@ -1,2 +1,5 @@
-# Blitz-Card-Game
-This is a python-based recreation of the famous Blitz card game.
+# Blitz Card Game
+
+Requires pygame 
+
+file 121 is the final version
